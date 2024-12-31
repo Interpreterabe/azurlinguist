@@ -1,7 +1,5 @@
----
-title: Azur Linguist
-layout: default
----
+
+ Azur Linguist
 
 # Welcome to Azur Linguist
 Your premier partner for comprehensive language services. We specialize in conference interpretation, translation, and language training, bridging communication gaps and fostering cross-cultural understanding.
